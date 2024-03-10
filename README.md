@@ -1,4 +1,4 @@
-# Unsupervized-Learning
+# Unsupervised-Learning
 
 Part 1 - To segment cars into various categories by fuel consumption and other attributes. 
 
